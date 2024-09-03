@@ -1,0 +1,27 @@
+http methods:
+get
+post
+delete
+put
+http methods use chesthe normal output vastundi rest api's vadithe json format lo vastay
+
+postman tool(for testing):
+intermediate tool for giving input(put,post)
+
+
+Data base (mongodb atlas)
+
+STS(spring tool suite 4) framework
+
+get data from database same fields sts lo vuntay
+
+pojo class
+
+micro service
+
+5 classes
+databse 
+pojoclass
+repositories
+controller
+services
